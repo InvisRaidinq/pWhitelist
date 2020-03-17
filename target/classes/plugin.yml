@@ -1,0 +1,5 @@
+name: pWhitelist
+version: ${project.version}
+description: Simple permission based whitelist system
+author: InvisRaidinq
+main: xyz.invisraidinq.pwhitelist.pWhitelist

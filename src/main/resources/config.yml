@@ -1,0 +1,5 @@
+Whitelist:
+  enabled: true
+  permission: 'whitelist.bypass'
+
+kick-message: '&cYou must have a rank to join this server'
